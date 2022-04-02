@@ -1,6 +1,6 @@
 <template>
     <div
-        class="container mx-auto grid grid-cols-2 gap-2 px-14 md:grid-cols-3 md:px-8 lg:grid-cols-4 lg:gap-4 2xl:w-[60%]"
+        class="container mx-auto grid grid-cols-2 gap-2 px-6 md:grid-cols-3 md:px-8 lg:grid-cols-4 lg:gap-4 2xl:w-[60%]"
     >
         <div class="col-span-2 grid place-content-center rounded-3xl bg-purple-500 text-white">
             01
